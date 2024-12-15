@@ -4,7 +4,7 @@ Traditional to Simplified changes:
 
 * 本 becomes 书 (when used on it's own. not when a radical (e.g 体	))
 * 見 becomes 见
-* 車 becomes 东
+* 車 becomes 车
 * 馬 becomes 马 [and variants]
 * 鳥 becomes 鸟 [and variants]
 * 戸 becomes 戶 [and variants]
