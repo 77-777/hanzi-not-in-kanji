@@ -12,6 +12,8 @@ Traditional to Simplified changes:
 * 魚 becomes 鱼 [and variants]
 * 雲 becomes 云
 * 長 becomes 长
+* 飛 becomes 飞
+* 貝 becomes 贝
 * 楽 becomes 乐
 * 電 becomes 电
 * 門 becomes 门 [and variants]
@@ -20,6 +22,7 @@ Traditional to Simplified changes:
 * 糸 becomes 纟
 * 食 becomes 饣
 * 龍 becomes 龙
+* 麦 becomes ???
 * 糹 becomes 纟
 * 訁 becomes 讠
 * 釒 becomes 钅
