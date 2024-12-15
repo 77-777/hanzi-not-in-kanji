@@ -22,6 +22,7 @@ Traditional to Simplified changes:
 * 龍 becomes 龙
 * 買 becomes 买
 * 貫 becomes 头 [as a radical]
+* 易 becomes 场 [as a radical, excluding 土]
 * 糸 becomes 纟
 * 食 becomes 饣
 * 麦 becomes ???
