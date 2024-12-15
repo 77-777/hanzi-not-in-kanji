@@ -14,8 +14,8 @@ Traditional to Simplified changes:
 * 門 becomes 门 [and variants]
 * 東 becomes 东
 * 黒 becomes 黑 [and variants]
-* 糹 becomes 纟
 * 糸 becomes 纟
+* 糹 becomes 纟
 * 訁 becomes 讠
 * 釒 becomes 钅
 
