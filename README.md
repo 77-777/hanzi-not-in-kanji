@@ -66,7 +66,7 @@ Traditional to Simplified changes:
 *  从
 *  长 (it's just 長)
 *  两
-*  间 (it's just 問)
+*  间 (it's just 間)
 *  问 (it's just 問)
 *  场
 *  鸡
