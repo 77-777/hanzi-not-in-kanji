@@ -27,6 +27,7 @@ Traditional to Simplified changes:
 * 気 becomes 气
 * 郷 becomes 乡
 * 開 becomes 开
+* 犬 becames 狗
 * 糸 becomes 纟
 * 食 becomes 饣
 * 麦 becomes ???
