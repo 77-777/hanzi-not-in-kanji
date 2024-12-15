@@ -20,6 +20,8 @@ Traditional to Simplified changes:
 * 東 becomes 东
 * 黒 becomes 黑 [and variants]
 * 龍 becomes 龙
+* 買 becomes 买
+* 貫 becomes 头 [as a radical]
 * 糸 becomes 纟
 * 食 becomes 饣
 * 麦 becomes ???
