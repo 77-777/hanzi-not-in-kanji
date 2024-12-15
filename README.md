@@ -25,6 +25,7 @@ Traditional to Simplified changes:
 * 易 becomes 场 [as a radical, excluding 土]
 * 麼 becomes 么
 * 気 becomes 气
+* 郷 becomes 乡
 * 糸 becomes 纟
 * 食 becomes 饣
 * 麦 becomes ???
