@@ -5,6 +5,7 @@ Traditional to Simplified changes:
 * 本 becomes 书 (when used on it's own. not when a radical (e.g 体	))
 * 見 becomes 见
 * 車 becomes 车
+* 風 becomes 风
 * 馬 becomes 马 [and variants]
 * 鳥 becomes 鸟 [and variants]
 * 戸 becomes 戶 [and variants]
@@ -12,13 +13,17 @@ Traditional to Simplified changes:
 * 雲 becomes 云
 * 長 becomes 长
 * 楽 becomes 乐
+* 電 becomes 电
 * 門 becomes 门 [and variants]
 * 東 becomes 东
 * 黒 becomes 黑 [and variants]
 * 糸 becomes 纟
+* 食 becomes 饣
+* 龍 becomes 龙
 * 糹 becomes 纟
 * 訁 becomes 讠
 * 釒 becomes 钅
+
 
 ## HSK1 new Hanzi, not in all Kanji.
 
