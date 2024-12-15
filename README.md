@@ -1,7 +1,6 @@
 # hanzi-not-in-kanji
 
-Simplified to Traditional Changes:
-
+Traditional to Simplified changes:
 
 * 本 becomes 书 (when used on it's own. not when a radical (e.g 体	))
 * 見 becomes 见
