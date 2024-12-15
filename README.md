@@ -23,6 +23,8 @@ Traditional to Simplified changes:
 * 買 becomes 买
 * 貫 becomes 头 [as a radical]
 * 易 becomes 场 [as a radical, excluding 土]
+* 麼 becomes 么
+* 気 becomes 气
 * 糸 becomes 纟
 * 食 becomes 饣
 * 麦 becomes ???
@@ -34,7 +36,7 @@ Traditional to Simplified changes:
 ## HSK1 new Hanzi, not in all Kanji.
 
 *  书 (change from 本)
-*  么
+*  么 (change from 麼)
 *  些
 *  东 (change from 東)
 *  认
